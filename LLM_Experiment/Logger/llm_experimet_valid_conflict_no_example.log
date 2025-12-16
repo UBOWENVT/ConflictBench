@@ -1,0 +1,720 @@
+2025-01-30 23:17:22,996 - INFO - Start processing index 1	project spring-boot commit 94dd289b04ee228fdc2a0cffe3801144cd1dcdfb
+2025-01-30 23:17:25,065 - INFO - OpenAI model finished.
+2025-01-30 23:17:31,944 - INFO - Gemini model finished.
+2025-01-30 23:17:36,945 - INFO - Complete processing index 1	project spring-boot commit 94dd289b04ee228fdc2a0cffe3801144cd1dcdfb
+2025-01-30 23:17:36,968 - INFO - Start processing index 2	project RxJava commit 45c9dc85337f4d4378dd964fddbf18f284b73e30
+2025-01-30 23:17:38,800 - INFO - OpenAI model finished.
+2025-01-30 23:17:45,042 - INFO - Gemini model finished.
+2025-01-30 23:17:50,042 - INFO - Complete processing index 2	project RxJava commit 45c9dc85337f4d4378dd964fddbf18f284b73e30
+2025-01-30 23:17:50,061 - INFO - Start processing index 3	project spring-framework commit ad497c259ac885c2050967ad3bc99d1bd59e3b19
+2025-01-30 23:17:52,581 - INFO - OpenAI model finished.
+2025-01-30 23:17:58,991 - INFO - Gemini model finished.
+2025-01-30 23:18:03,991 - INFO - Complete processing index 3	project spring-framework commit ad497c259ac885c2050967ad3bc99d1bd59e3b19
+2025-01-30 23:18:04,009 - INFO - Start processing index 4	project retrofit commit 18cb07d47f5c4b7fc7c814b0fa5b34abb1ae7f7d
+2025-01-30 23:18:08,428 - INFO - OpenAI model finished.
+2025-01-30 23:18:14,465 - INFO - Gemini model finished.
+2025-01-30 23:18:19,466 - INFO - Complete processing index 4	project retrofit commit 18cb07d47f5c4b7fc7c814b0fa5b34abb1ae7f7d
+2025-01-30 23:18:19,485 - INFO - Start processing index 5	project dubbo commit b7b34b6c475912c4c805b389954fd897bdd9f769
+2025-01-30 23:18:21,461 - INFO - OpenAI model finished.
+2025-01-30 23:18:27,824 - INFO - Gemini model finished.
+2025-01-30 23:18:32,824 - INFO - Complete processing index 5	project dubbo commit b7b34b6c475912c4c805b389954fd897bdd9f769
+2025-01-30 23:18:32,844 - INFO - Start processing index 6	project proxyee-down commit 1d9d7f71a09917c612e4d03673273e50a084ff69
+2025-01-30 23:18:35,931 - INFO - OpenAI model finished.
+2025-01-30 23:18:42,017 - INFO - Gemini model finished.
+2025-01-30 23:18:47,018 - INFO - Complete processing index 6	project proxyee-down commit 1d9d7f71a09917c612e4d03673273e50a084ff69
+2025-01-30 23:18:47,038 - INFO - Start processing index 7	project jadx commit c705f8cbff9ac2d846b6b21d0a40601668afd213
+2025-01-30 23:18:49,147 - INFO - OpenAI model finished.
+2025-01-30 23:18:55,237 - INFO - Gemini model finished.
+2025-01-30 23:19:00,238 - INFO - Complete processing index 7	project jadx commit c705f8cbff9ac2d846b6b21d0a40601668afd213
+2025-01-30 23:19:00,251 - INFO - Start processing index 8	project fastjson commit ee3728b727c52d9090919f7791e1b0d738e1ea6f
+2025-01-30 23:19:02,308 - INFO - OpenAI model finished.
+2025-01-30 23:19:08,239 - INFO - Gemini model finished.
+2025-01-30 23:19:13,239 - INFO - Complete processing index 8	project fastjson commit ee3728b727c52d9090919f7791e1b0d738e1ea6f
+2025-01-30 23:19:13,258 - INFO - Start processing index 9	project druid commit 2c48d6630200c428abf45c87f17006a5cf3e0756
+2025-01-30 23:19:15,170 - INFO - OpenAI model finished.
+2025-01-30 23:19:22,912 - INFO - Gemini model finished.
+2025-01-30 23:19:27,913 - INFO - Complete processing index 9	project druid commit 2c48d6630200c428abf45c87f17006a5cf3e0756
+2025-01-30 23:19:27,931 - INFO - Start processing index 10	project apollo commit c46f561cb1136907aec254c9fbd0aa726f263c3b
+2025-01-30 23:19:34,653 - INFO - OpenAI model finished.
+2025-01-30 23:19:40,879 - INFO - Gemini model finished.
+2025-01-30 23:19:45,880 - INFO - Complete processing index 10	project apollo commit c46f561cb1136907aec254c9fbd0aa726f263c3b
+2025-01-30 23:19:45,892 - INFO - Start processing index 11	project arthas commit d8c16720f471db4fe5b7c21d992a948e9522a208
+2025-01-30 23:19:48,427 - INFO - OpenAI model finished.
+2025-01-30 23:19:54,809 - INFO - Gemini model finished.
+2025-01-30 23:19:59,810 - INFO - Complete processing index 11	project arthas commit d8c16720f471db4fe5b7c21d992a948e9522a208
+2025-01-30 23:19:59,829 - INFO - Start processing index 12	project Hystrix commit 1e7f5e077c0ce7de9ce9545369279e52a77905c3
+2025-01-30 23:20:01,577 - INFO - OpenAI model finished.
+2025-01-30 23:20:07,419 - INFO - Gemini model finished.
+2025-01-30 23:20:12,419 - INFO - Complete processing index 12	project Hystrix commit 1e7f5e077c0ce7de9ce9545369279e52a77905c3
+2025-01-30 23:20:12,437 - INFO - Start processing index 13	project kafka commit 3f473566ab2ef51f17034dc02f632df5d38fe307
+2025-01-30 23:20:14,347 - INFO - OpenAI model finished.
+2025-01-30 23:20:20,360 - INFO - Gemini model finished.
+2025-01-30 23:20:25,361 - INFO - Complete processing index 13	project kafka commit 3f473566ab2ef51f17034dc02f632df5d38fe307
+2025-01-30 23:20:25,380 - INFO - Start processing index 14	project ExoPlayer commit 7686ba8b4d47d6e0e9c8fcb51f672c38064070aa
+2025-01-30 23:20:29,509 - INFO - OpenAI model finished.
+2025-01-30 23:20:35,760 - INFO - Gemini model finished.
+2025-01-30 23:20:40,761 - INFO - Complete processing index 14	project ExoPlayer commit 7686ba8b4d47d6e0e9c8fcb51f672c38064070aa
+2025-01-30 23:20:40,778 - INFO - Start processing index 15	project seata commit 3f93d57bc4b85e0300d4d6c42adcc3af70d021bf
+2025-01-30 23:20:43,536 - INFO - OpenAI model finished.
+2025-01-30 23:20:50,490 - INFO - Gemini model finished.
+2025-01-30 23:20:55,491 - INFO - Complete processing index 15	project seata commit 3f93d57bc4b85e0300d4d6c42adcc3af70d021bf
+2025-01-30 23:20:55,510 - INFO - Start processing index 16	project halo commit 57c0f8039993447caffa32680937582f9d7eac98
+2025-01-30 23:21:07,445 - INFO - OpenAI model finished.
+2025-01-30 23:21:14,626 - INFO - Gemini model finished.
+2025-01-30 23:21:19,626 - INFO - Complete processing index 16	project halo commit 57c0f8039993447caffa32680937582f9d7eac98
+2025-01-30 23:21:19,645 - INFO - Start processing index 17	project easyexcel commit 3f829efadce97c4e146a5d827c9076d488d4af16
+2025-01-30 23:21:22,284 - INFO - OpenAI model finished.
+2025-01-30 23:21:28,875 - INFO - Gemini model finished.
+2025-01-30 23:21:33,875 - INFO - Complete processing index 17	project easyexcel commit 3f829efadce97c4e146a5d827c9076d488d4af16
+2025-01-30 23:21:33,895 - INFO - Start processing index 18	project mybatis-3 commit 3502f7ced8ec30f6196c4253df4d22acba601c40
+2025-01-30 23:21:36,177 - INFO - OpenAI model finished.
+2025-01-30 23:21:42,240 - INFO - Gemini model finished.
+2025-01-30 23:21:47,240 - INFO - Complete processing index 18	project mybatis-3 commit 3502f7ced8ec30f6196c4253df4d22acba601c40
+2025-01-30 23:21:47,251 - INFO - Start processing index 19	project xxl-job commit 8512a34469bf574b199268d855f7fd86a18d8fcc
+2025-01-30 23:21:49,742 - INFO - OpenAI model finished.
+2025-01-30 23:21:56,210 - INFO - Gemini model finished.
+2025-01-30 23:22:01,211 - INFO - Complete processing index 19	project xxl-job commit 8512a34469bf574b199268d855f7fd86a18d8fcc
+2025-01-30 23:22:01,231 - INFO - Start processing index 20	project cat commit 1bd24982129971bf0ce1b4c4be113149820497d0
+2025-01-30 23:22:03,779 - INFO - OpenAI model finished.
+2025-01-30 23:22:09,869 - INFO - Gemini model finished.
+2025-01-30 23:22:14,869 - INFO - Complete processing index 20	project cat commit 1bd24982129971bf0ce1b4c4be113149820497d0
+2025-01-30 23:22:14,884 - INFO - Start processing index 21	project zipkin commit b062c246194be436fc04051327f315afa74054d8
+2025-01-30 23:22:17,219 - INFO - OpenAI model finished.
+2025-01-30 23:22:25,064 - INFO - Gemini model finished.
+2025-01-30 23:22:30,064 - INFO - Complete processing index 21	project zipkin commit b062c246194be436fc04051327f315afa74054d8
+2025-01-30 23:22:30,084 - INFO - Start processing index 22	project FizzBuzzEnterpriseEdition commit d8bfc0a4cf56bbe4d5fb853147408334142a335f
+2025-01-30 23:22:31,568 - INFO - OpenAI model finished.
+2025-01-30 23:22:37,368 - INFO - Gemini model finished.
+2025-01-30 23:22:42,368 - INFO - Complete processing index 22	project FizzBuzzEnterpriseEdition commit d8bfc0a4cf56bbe4d5fb853147408334142a335f
+2025-01-30 23:22:42,387 - INFO - Start processing index 23	project dbeaver commit 75e472bab0fa1e708a36c18abd2547da44793937
+2025-01-30 23:22:45,010 - INFO - OpenAI model finished.
+2025-01-30 23:22:51,524 - INFO - Gemini model finished.
+2025-01-30 23:22:56,524 - INFO - Complete processing index 23	project dbeaver commit 75e472bab0fa1e708a36c18abd2547da44793937
+2025-01-30 23:22:56,546 - INFO - Start processing index 24	project HikariCP commit 68a52f143194e3d2fc7a14a005c64a58aca0d5a7
+2025-01-30 23:22:59,070 - INFO - OpenAI model finished.
+2025-01-30 23:23:07,316 - INFO - Gemini model finished.
+2025-01-30 23:23:12,316 - INFO - Complete processing index 24	project HikariCP commit 68a52f143194e3d2fc7a14a005c64a58aca0d5a7
+2025-01-30 23:23:12,328 - INFO - Start processing index 25	project redisson commit cd8d6005527a5909fe38268c97a636f7de6cb92a
+2025-01-30 23:23:17,602 - INFO - OpenAI model finished.
+2025-01-30 23:23:23,578 - INFO - Gemini model finished.
+2025-01-30 23:23:28,579 - INFO - Complete processing index 25	project redisson commit cd8d6005527a5909fe38268c97a636f7de6cb92a
+2025-01-30 23:23:28,599 - INFO - Start processing index 26	project disruptor commit b5332d410a81d2a2142728caaf34f1ac598b9832
+2025-01-30 23:23:30,696 - INFO - OpenAI model finished.
+2025-01-30 23:23:37,687 - INFO - Gemini model finished.
+2025-01-30 23:23:42,687 - INFO - Complete processing index 26	project disruptor commit b5332d410a81d2a2142728caaf34f1ac598b9832
+2025-01-30 23:23:42,705 - INFO - Start processing index 27	project spring-cloud-alibaba commit 3afd0177e5d5dd527e39e63ed0289eeed2fb9ce6
+2025-01-30 23:23:45,120 - INFO - OpenAI model finished.
+2025-01-30 23:23:51,746 - INFO - Gemini model finished.
+2025-01-30 23:23:56,747 - INFO - Complete processing index 27	project spring-cloud-alibaba commit 3afd0177e5d5dd527e39e63ed0289eeed2fb9ce6
+2025-01-30 23:23:56,765 - INFO - Start processing index 28	project litemall commit 104523c63b50a049228e5ddb2aacbacd70462a00
+2025-01-30 23:23:58,582 - INFO - OpenAI model finished.
+2025-01-30 23:24:04,784 - INFO - Gemini model finished.
+2025-01-30 23:24:09,785 - INFO - Complete processing index 28	project litemall commit 104523c63b50a049228e5ddb2aacbacd70462a00
+2025-01-30 23:24:09,797 - INFO - Start processing index 29	project Android-PickerView commit 862fc3a6b76b453fd943fb1b5c36755f2ec50b29
+2025-01-30 23:24:11,241 - INFO - OpenAI model finished.
+2025-01-30 23:24:17,407 - INFO - Gemini model finished.
+2025-01-30 23:24:22,407 - INFO - Complete processing index 29	project Android-PickerView commit 862fc3a6b76b453fd943fb1b5c36755f2ec50b29
+2025-01-30 23:24:22,421 - INFO - Start processing index 30	project nacos commit e63aba60705ac49bfc01f1f72fdb62076b611ccf
+2025-01-30 23:24:25,895 - INFO - OpenAI model finished.
+2025-01-30 23:24:31,625 - INFO - Gemini model finished.
+2025-01-30 23:24:36,655 - INFO - Complete processing index 30	project nacos commit e63aba60705ac49bfc01f1f72fdb62076b611ccf
+2025-01-30 23:24:36,677 - INFO - Start processing index 31	project Matisse commit 93d0051c349d40604dc104299f78c6f63263cd92
+2025-01-30 23:24:38,552 - INFO - OpenAI model finished.
+2025-01-30 23:24:44,503 - INFO - Gemini model finished.
+2025-01-30 23:24:49,504 - INFO - Complete processing index 31	project Matisse commit 93d0051c349d40604dc104299f78c6f63263cd92
+2025-01-30 23:24:49,523 - INFO - Start processing index 32	project vert.x commit e332ea4823585c958870b74acfaa5591847dff52
+2025-01-30 23:24:51,843 - INFO - OpenAI model finished.
+2025-01-30 23:24:58,383 - INFO - Gemini model finished.
+2025-01-30 23:25:03,383 - INFO - Complete processing index 32	project vert.x commit e332ea4823585c958870b74acfaa5591847dff52
+2025-01-30 23:25:03,396 - INFO - Start processing index 33	project hutool commit 9c4731ec5d288dabf8e0a139952d5e97b3efc86f
+2025-01-30 23:25:05,260 - INFO - OpenAI model finished.
+2025-01-30 23:25:12,192 - INFO - Gemini model finished.
+2025-01-30 23:25:17,193 - INFO - Complete processing index 33	project hutool commit 9c4731ec5d288dabf8e0a139952d5e97b3efc86f
+2025-01-30 23:25:17,213 - INFO - Start processing index 34	project rocketmq commit 94634fbbd5c7f0e87c0933cb0afa1ca388dd0ba7
+2025-01-30 23:25:18,868 - INFO - OpenAI model finished.
+2025-01-30 23:25:25,229 - INFO - Gemini model finished.
+2025-01-30 23:25:30,230 - INFO - Complete processing index 34	project rocketmq commit 94634fbbd5c7f0e87c0933cb0afa1ca388dd0ba7
+2025-01-30 23:25:30,249 - INFO - Start processing index 35	project presto commit f50b46c76e43b9d1a1e4103524480055ae2fdbed
+2025-01-30 23:25:33,882 - INFO - OpenAI model finished.
+2025-01-30 23:25:40,943 - INFO - Gemini model finished.
+2025-01-30 23:25:45,944 - INFO - Complete processing index 35	project presto commit f50b46c76e43b9d1a1e4103524480055ae2fdbed
+2025-01-30 23:25:45,958 - INFO - Start processing index 36	project mockito commit 0711d24a49fc770ce365c0a44466a56f7a7d8857
+2025-01-30 23:25:47,535 - INFO - OpenAI model finished.
+2025-01-30 23:25:53,429 - INFO - Gemini model finished.
+2025-01-30 23:25:58,429 - INFO - Complete processing index 36	project mockito commit 0711d24a49fc770ce365c0a44466a56f7a7d8857
+2025-01-30 23:25:58,441 - INFO - Start processing index 37	project incubator-shardingsphere commit 7fe148b3e7a334097504b76000f6fa8374f2ddba
+2025-01-30 23:26:01,677 - INFO - OpenAI model finished.
+2025-01-30 23:26:08,547 - INFO - Gemini model finished.
+2025-01-30 23:26:13,547 - INFO - Complete processing index 37	project incubator-shardingsphere commit 7fe148b3e7a334097504b76000f6fa8374f2ddba
+2025-01-30 23:26:13,566 - INFO - Start processing index 38	project Apktool commit 15600ffab4b050591d4a96445d5e184e74d693d5
+2025-01-30 23:26:16,395 - INFO - OpenAI model finished.
+2025-01-30 23:26:22,939 - INFO - Gemini model finished.
+2025-01-30 23:26:27,940 - INFO - Complete processing index 38	project Apktool commit 15600ffab4b050591d4a96445d5e184e74d693d5
+2025-01-30 23:26:27,958 - INFO - Start processing index 39	project uCrop commit 3fa048191562dc21c73c4dd5121a27828b8c49a6
+2025-01-30 23:26:29,658 - INFO - OpenAI model finished.
+2025-01-30 23:26:35,929 - INFO - Gemini model finished.
+2025-01-30 23:26:40,930 - INFO - Complete processing index 39	project uCrop commit 3fa048191562dc21c73c4dd5121a27828b8c49a6
+2025-01-30 23:26:40,950 - INFO - Start processing index 40	project elasticsearch-analysis-ik commit ca2bfe57320fbf2bbef20c9ca69b9d78f4912710
+2025-01-30 23:26:44,432 - INFO - OpenAI model finished.
+2025-01-30 23:26:50,801 - INFO - Gemini model finished.
+2025-01-30 23:26:55,801 - INFO - Complete processing index 40	project elasticsearch-analysis-ik commit ca2bfe57320fbf2bbef20c9ca69b9d78f4912710
+2025-01-30 23:26:55,817 - INFO - Start processing index 41	project eureka commit 30315c7abfe51c84c2ca27ac5e16fa8784f69620
+2025-01-30 23:26:59,674 - INFO - OpenAI model finished.
+2025-01-30 23:27:05,889 - INFO - Gemini model finished.
+2025-01-30 23:27:10,890 - INFO - Complete processing index 41	project eureka commit 30315c7abfe51c84c2ca27ac5e16fa8784f69620
+2025-01-30 23:27:10,908 - INFO - Start processing index 42	project zuul commit 73f55bf8d4e1fff53759d097238d8dc38d132c63
+2025-01-30 23:27:14,865 - INFO - OpenAI model finished.
+2025-01-30 23:27:20,933 - INFO - Gemini model finished.
+2025-01-30 23:27:25,933 - INFO - Complete processing index 42	project zuul commit 73f55bf8d4e1fff53759d097238d8dc38d132c63
+2025-01-30 23:27:25,945 - INFO - Start processing index 43	project jedis commit b013a74c44b526ba9f824cc7eb2087714d9b6eaf
+2025-01-30 23:27:28,591 - INFO - OpenAI model finished.
+2025-01-30 23:27:34,930 - INFO - Gemini model finished.
+2025-01-30 23:27:39,931 - INFO - Complete processing index 43	project jedis commit b013a74c44b526ba9f824cc7eb2087714d9b6eaf
+2025-01-30 23:27:39,953 - INFO - Start processing index 44	project Mybatis-PageHelper commit 964a5ebebae2922f93d80ac9403670905686c88c
+2025-01-30 23:27:45,251 - INFO - OpenAI model finished.
+2025-01-30 23:27:51,344 - INFO - Gemini model finished.
+2025-01-30 23:27:56,345 - INFO - Complete processing index 44	project Mybatis-PageHelper commit 964a5ebebae2922f93d80ac9403670905686c88c
+2025-01-30 23:27:56,365 - INFO - Start processing index 45	project webmagic commit b7f3c4bba0bafb703221526062428cb17f86cf5b
+2025-01-30 23:27:58,552 - INFO - OpenAI model finished.
+2025-01-30 23:28:04,625 - INFO - Gemini model finished.
+2025-01-30 23:28:09,626 - INFO - Complete processing index 45	project webmagic commit b7f3c4bba0bafb703221526062428cb17f86cf5b
+2025-01-30 23:28:09,644 - INFO - Start processing index 46	project spark commit 24e7b2651b40c1ea792aa33e7c62db4e841f81f2
+2025-01-30 23:28:12,039 - INFO - OpenAI model finished.
+2025-01-30 23:28:18,074 - INFO - Gemini model finished.
+2025-01-30 23:28:23,075 - INFO - Complete processing index 46	project spark commit 24e7b2651b40c1ea792aa33e7c62db4e841f81f2
+2025-01-30 23:28:23,095 - INFO - Start processing index 47	project jib commit a3c4fdfba5a095ea5d8e3e57571a19f584bbdf91
+2025-01-30 23:28:25,341 - INFO - OpenAI model finished.
+2025-01-30 23:28:31,413 - INFO - Gemini model finished.
+2025-01-30 23:28:36,413 - INFO - Complete processing index 47	project jib commit a3c4fdfba5a095ea5d8e3e57571a19f584bbdf91
+2025-01-30 23:28:36,433 - INFO - Start processing index 48	project jd-gui commit 2ae4688ea65a52a7921c36e3b993b502c2d34fee
+2025-01-30 23:28:38,117 - INFO - OpenAI model finished.
+2025-01-30 23:28:44,381 - INFO - Gemini model finished.
+2025-01-30 23:28:49,382 - INFO - Complete processing index 48	project jd-gui commit 2ae4688ea65a52a7921c36e3b993b502c2d34fee
+2025-01-30 23:28:49,397 - INFO - Start processing index 49	project mybatis-plus commit 0f82c09311ba979ee4cf7bd625207b9c69625809
+2025-01-30 23:28:52,010 - INFO - OpenAI model finished.
+2025-01-30 23:28:58,802 - INFO - Gemini model finished.
+2025-01-30 23:29:03,803 - INFO - Complete processing index 49	project mybatis-plus commit 0f82c09311ba979ee4cf7bd625207b9c69625809
+2025-01-30 23:29:03,822 - INFO - Start processing index 50	project javapoet commit bd4099d43cae88f2d7acea1a60c43a54db83a36b
+2025-01-30 23:29:06,082 - INFO - OpenAI model finished.
+2025-01-30 23:29:11,827 - INFO - Gemini model finished.
+2025-01-30 23:29:16,828 - INFO - Complete processing index 50	project javapoet commit bd4099d43cae88f2d7acea1a60c43a54db83a36b
+2025-01-30 23:29:16,839 - INFO - Start processing index 51	project junit4 commit 4c8d3ff5ea9d1556bf05af6262ee58f65984e22f
+2025-01-30 23:29:18,417 - INFO - OpenAI model finished.
+2025-01-30 23:29:24,344 - INFO - Gemini model finished.
+2025-01-30 23:29:29,344 - INFO - Complete processing index 51	project junit4 commit 4c8d3ff5ea9d1556bf05af6262ee58f65984e22f
+2025-01-30 23:29:29,366 - INFO - Start processing index 52	project jsoup commit dd8e832191e78a417a03c88512b1d7eeb7f486d4
+2025-01-30 23:29:31,778 - INFO - OpenAI model finished.
+2025-01-30 23:29:37,671 - INFO - Gemini model finished.
+2025-01-30 23:29:42,671 - INFO - Complete processing index 52	project jsoup commit dd8e832191e78a417a03c88512b1d7eeb7f486d4
+2025-01-30 23:29:42,693 - INFO - Start processing index 53	project Mycat-Server commit 5bc25fa8d2f21740ebcc76cc41a0273e26f725df
+2025-01-30 23:29:46,601 - INFO - OpenAI model finished.
+2025-01-30 23:29:53,583 - INFO - Gemini model finished.
+2025-01-30 23:29:58,584 - INFO - Complete processing index 53	project Mycat-Server commit 5bc25fa8d2f21740ebcc76cc41a0273e26f725df
+2025-01-30 23:29:58,604 - INFO - Start processing index 54	project material-theme-jetbrains commit d5f982314da0751b3af25993fda67cc5fe8f809d
+2025-01-30 23:30:00,723 - INFO - OpenAI model finished.
+2025-01-30 23:30:06,682 - INFO - Gemini model finished.
+2025-01-30 23:30:11,683 - INFO - Complete processing index 54	project material-theme-jetbrains commit d5f982314da0751b3af25993fda67cc5fe8f809d
+2025-01-30 23:30:11,695 - INFO - Start processing index 55	project SimianArmy commit 683c991a1383777e348467155039789237f84b80
+2025-01-30 23:30:13,387 - INFO - OpenAI model finished.
+2025-01-30 23:30:19,577 - INFO - Gemini model finished.
+2025-01-30 23:30:24,578 - INFO - Complete processing index 55	project SimianArmy commit 683c991a1383777e348467155039789237f84b80
+2025-01-30 23:30:24,598 - INFO - Start processing index 56	project JustAuth commit 3199334ddcceaec83fcf2fcf3593333b2c53a2af
+2025-01-30 23:30:26,667 - INFO - OpenAI model finished.
+2025-01-30 23:30:32,953 - INFO - Gemini model finished.
+2025-01-30 23:30:37,953 - INFO - Complete processing index 56	project JustAuth commit 3199334ddcceaec83fcf2fcf3593333b2c53a2af
+2025-01-30 23:30:37,966 - INFO - Start processing index 57	project RxLifecycle commit 30410d56ab7428024a8551ff64898390d65108d4
+2025-01-30 23:30:39,777 - INFO - OpenAI model finished.
+2025-01-30 23:30:45,603 - INFO - Gemini model finished.
+2025-01-30 23:30:50,604 - INFO - Complete processing index 57	project RxLifecycle commit 30410d56ab7428024a8551ff64898390d65108d4
+2025-01-30 23:30:50,624 - INFO - Start processing index 58	project caffeine commit 7a5b3f112e8f5f71821471da4eddd91d8e52ea36
+2025-01-30 23:30:53,869 - INFO - OpenAI model finished.
+2025-01-30 23:31:00,311 - INFO - Gemini model finished.
+2025-01-30 23:31:05,312 - INFO - Complete processing index 58	project caffeine commit 7a5b3f112e8f5f71821471da4eddd91d8e52ea36
+2025-01-30 23:31:05,332 - INFO - Start processing index 59	project dex2jar commit bf2ba2a24ec33e3e4a2adf62adb86b740b607086
+2025-01-30 23:31:08,706 - INFO - OpenAI model finished.
+2025-01-30 23:31:14,514 - INFO - Gemini model finished.
+2025-01-30 23:31:19,514 - INFO - Complete processing index 59	project dex2jar commit bf2ba2a24ec33e3e4a2adf62adb86b740b607086
+2025-01-30 23:31:19,533 - INFO - Start processing index 60	project eladmin commit e0378c3d1551f4b28bf3246dad7b8541e0aef0e0
+2025-01-30 23:31:21,602 - INFO - OpenAI model finished.
+2025-01-30 23:31:28,669 - INFO - Gemini model finished.
+2025-01-30 23:31:33,670 - INFO - Complete processing index 60	project eladmin commit e0378c3d1551f4b28bf3246dad7b8541e0aef0e0
+2025-01-30 23:31:33,715 - INFO - Start processing index 61	project hsweb-framework commit 5ab9d48e32a39cbb7faa97c1a1af196285751d28
+2025-01-30 23:31:38,008 - INFO - OpenAI model finished.
+2025-01-30 23:31:45,341 - INFO - Gemini model finished.
+2025-01-30 23:31:50,341 - INFO - Complete processing index 61	project hsweb-framework commit 5ab9d48e32a39cbb7faa97c1a1af196285751d28
+2025-01-30 23:31:50,362 - INFO - Start processing index 62	project metrics commit ce7cdff4e9f72cc51395edf421ffa3ec717201e6
+2025-01-30 23:31:52,396 - INFO - OpenAI model finished.
+2025-01-30 23:31:58,931 - INFO - Gemini model finished.
+2025-01-30 23:32:03,931 - INFO - Complete processing index 62	project metrics commit ce7cdff4e9f72cc51395edf421ffa3ec717201e6
+2025-01-30 23:32:03,951 - INFO - Start processing index 63	project Java-WebSocket commit 1196574c3436f87682e1487f5ed0e179ea870ed3
+2025-01-30 23:32:05,767 - INFO - OpenAI model finished.
+2025-01-30 23:32:12,207 - INFO - Gemini model finished.
+2025-01-30 23:32:17,207 - INFO - Complete processing index 63	project Java-WebSocket commit 1196574c3436f87682e1487f5ed0e179ea870ed3
+2025-01-30 23:32:17,226 - INFO - Start processing index 64	project AndResGuard commit 3c9576844a7977e5b0190416341c8a07ab0c4a49
+2025-01-30 23:32:19,584 - INFO - OpenAI model finished.
+2025-01-30 23:32:25,479 - INFO - Gemini model finished.
+2025-01-30 23:32:30,480 - INFO - Complete processing index 64	project AndResGuard commit 3c9576844a7977e5b0190416341c8a07ab0c4a49
+2025-01-30 23:32:30,494 - INFO - Start processing index 65	project swagger-core commit bc19d9032ea088b1e804c4ace68096da8bd0984c
+2025-01-30 23:32:35,355 - INFO - OpenAI model finished.
+2025-01-30 23:32:41,187 - INFO - Gemini model finished.
+2025-01-30 23:32:46,187 - INFO - Complete processing index 65	project swagger-core commit bc19d9032ea088b1e804c4ace68096da8bd0984c
+2025-01-30 23:32:46,208 - INFO - Start processing index 66	project spring-boot-api-project-seed commit 1200b1bb14c53460f0851cd076f9c5028c6ff1ca
+2025-01-30 23:32:49,463 - INFO - OpenAI model finished.
+2025-01-30 23:32:57,397 - INFO - Gemini model finished.
+2025-01-30 23:33:02,397 - INFO - Complete processing index 66	project spring-boot-api-project-seed commit 1200b1bb14c53460f0851cd076f9c5028c6ff1ca
+2025-01-30 23:33:02,416 - INFO - Start processing index 67	project jjwt commit 3f079803316a45617b75c4fa2f309d6728490075
+2025-01-30 23:33:05,510 - INFO - OpenAI model finished.
+2025-01-30 23:33:12,483 - INFO - Gemini model finished.
+2025-01-30 23:33:17,484 - INFO - Complete processing index 67	project jjwt commit 3f079803316a45617b75c4fa2f309d6728490075
+2025-01-30 23:33:17,496 - INFO - Start processing index 68	project elasticsearch-sql commit df6cf91d975daa6924e1b0dbedbfe98fc3bcf997
+2025-01-30 23:33:19,484 - INFO - OpenAI model finished.
+2025-01-30 23:33:25,535 - INFO - Gemini model finished.
+2025-01-30 23:33:30,535 - INFO - Complete processing index 68	project elasticsearch-sql commit df6cf91d975daa6924e1b0dbedbfe98fc3bcf997
+2025-01-30 23:33:30,554 - INFO - Start processing index 69	project cassandra commit 4cda3622d0a86d45d73a31576fc8b39b9e66928d
+2025-01-30 23:33:32,627 - INFO - OpenAI model finished.
+2025-01-30 23:33:39,564 - INFO - Gemini model finished.
+2025-01-30 23:33:44,565 - INFO - Complete processing index 69	project cassandra commit 4cda3622d0a86d45d73a31576fc8b39b9e66928d
+2025-01-30 23:33:44,584 - INFO - Start processing index 70	project elastic-job-lite commit fcac3cacf40073ec4c37ba08c3ee92c73e46a50d
+2025-01-30 23:33:47,355 - INFO - OpenAI model finished.
+2025-01-30 23:33:53,472 - INFO - Gemini model finished.
+2025-01-30 23:33:58,472 - INFO - Complete processing index 70	project elastic-job-lite commit fcac3cacf40073ec4c37ba08c3ee92c73e46a50d
+2025-01-30 23:33:58,486 - INFO - Start processing index 71	project feign commit 2e28ebd41de73ca233cbbf8dfaa5cef463b806a3
+2025-01-30 23:34:03,488 - INFO - OpenAI model finished.
+2025-01-30 23:34:09,709 - INFO - Gemini model finished.
+2025-01-30 23:34:14,710 - INFO - Complete processing index 71	project feign commit 2e28ebd41de73ca233cbbf8dfaa5cef463b806a3
+2025-01-30 23:34:14,731 - INFO - Start processing index 72	project closure-compiler commit a506e4a7a5a5863767395b67a87d1dfb14a4a29a
+2025-01-30 23:34:17,635 - INFO - OpenAI model finished.
+2025-01-30 23:34:24,189 - INFO - Gemini model finished.
+2025-01-30 23:34:29,190 - INFO - Complete processing index 72	project closure-compiler commit a506e4a7a5a5863767395b67a87d1dfb14a4a29a
+2025-01-30 23:34:29,202 - INFO - Start processing index 73	project motan commit 97f6e0c5ef2ea3583a41cb8b11f020bf7d2078e5
+2025-01-30 23:34:31,372 - INFO - OpenAI model finished.
+2025-01-30 23:34:37,491 - INFO - Gemini model finished.
+2025-01-30 23:34:42,491 - INFO - Complete processing index 73	project motan commit 97f6e0c5ef2ea3583a41cb8b11f020bf7d2078e5
+2025-01-30 23:34:42,513 - INFO - Start processing index 74	project ansj_seg commit 2eb46b3c8f77d6fc036f7edcf7d87daad348457b
+2025-01-30 23:34:44,252 - INFO - OpenAI model finished.
+2025-01-30 23:34:50,270 - INFO - Gemini model finished.
+2025-01-30 23:34:55,271 - INFO - Complete processing index 74	project ansj_seg commit 2eb46b3c8f77d6fc036f7edcf7d87daad348457b
+2025-01-30 23:34:55,291 - INFO - Start processing index 75	project android-job commit 463bd329dfc3b62ee58bc589b8d8e873520f1529
+2025-01-30 23:34:57,219 - INFO - OpenAI model finished.
+2025-01-30 23:35:03,347 - INFO - Gemini model finished.
+2025-01-30 23:35:08,347 - INFO - Complete processing index 75	project android-job commit 463bd329dfc3b62ee58bc589b8d8e873520f1529
+2025-01-30 23:35:08,367 - INFO - Start processing index 76	project async-http-client commit 4999b8dd4278f9cae0a1d278c00f067e8df5c12e
+2025-01-30 23:35:11,593 - INFO - OpenAI model finished.
+2025-01-30 23:35:17,596 - INFO - Gemini model finished.
+2025-01-30 23:35:22,596 - INFO - Complete processing index 76	project async-http-client commit 4999b8dd4278f9cae0a1d278c00f067e8df5c12e
+2025-01-30 23:35:22,612 - INFO - Start processing index 77	project nanohttpd commit d4b126719dcc2ae9f36941d8cdcb98a64d828aad
+2025-01-30 23:35:25,191 - INFO - OpenAI model finished.
+2025-01-30 23:35:32,889 - INFO - Gemini model finished.
+2025-01-30 23:35:37,889 - INFO - Complete processing index 77	project nanohttpd commit d4b126719dcc2ae9f36941d8cdcb98a64d828aad
+2025-01-30 23:35:37,910 - INFO - Start processing index 78	project Mapper commit 97ea02fe0effb66ed3ca3384e45624dd5678a80e
+2025-01-30 23:35:43,414 - INFO - OpenAI model finished.
+2025-01-30 23:35:50,402 - INFO - Gemini model finished.
+2025-01-30 23:35:55,402 - INFO - Complete processing index 78	project Mapper commit 97ea02fe0effb66ed3ca3384e45624dd5678a80e
+2025-01-30 23:35:55,418 - INFO - Start processing index 79	project resilience4j commit 9ce162786f6799c5fba88f1450662856b7c7587c
+2025-01-30 23:35:57,659 - INFO - OpenAI model finished.
+2025-01-30 23:36:04,322 - INFO - Gemini model finished.
+2025-01-30 23:36:09,322 - INFO - Complete processing index 79	project resilience4j commit 9ce162786f6799c5fba88f1450662856b7c7587c
+2025-01-30 23:36:09,347 - INFO - Start processing index 80	project disconf commit 030e0c68856c0da9687b9732097f89d1042489ed
+2025-01-30 23:36:11,791 - INFO - OpenAI model finished.
+2025-01-30 23:36:17,982 - INFO - Gemini model finished.
+2025-01-30 23:36:22,982 - INFO - Complete processing index 80	project disconf commit 030e0c68856c0da9687b9732097f89d1042489ed
+2025-01-30 23:36:23,007 - INFO - Start processing index 81	project error-prone commit 6f83c0839dd0343f229406d4222d8c5bea768c47
+2025-01-30 23:36:25,033 - INFO - OpenAI model finished.
+2025-01-30 23:36:31,145 - INFO - Gemini model finished.
+2025-01-30 23:36:36,146 - INFO - Complete processing index 81	project error-prone commit 6f83c0839dd0343f229406d4222d8c5bea768c47
+2025-01-30 23:36:36,166 - INFO - Start processing index 82	project jsonschema2pojo commit 5d05462840831cfc6f598a03a587ca6843d8f827
+2025-01-30 23:36:37,813 - INFO - OpenAI model finished.
+2025-01-30 23:36:44,868 - INFO - Gemini model finished.
+2025-01-30 23:36:49,869 - INFO - Complete processing index 82	project jsonschema2pojo commit 5d05462840831cfc6f598a03a587ca6843d8f827
+2025-01-30 23:36:49,889 - INFO - Start processing index 83	project aeron commit 3232d796596bed0c92dcdfcebcc362b97944bddc
+2025-01-30 23:36:53,023 - INFO - OpenAI model finished.
+2025-01-30 23:36:59,451 - INFO - Gemini model finished.
+2025-01-30 23:37:04,451 - INFO - Complete processing index 83	project aeron commit 3232d796596bed0c92dcdfcebcc362b97944bddc
+2025-01-30 23:37:04,460 - INFO - Start processing index 84	project server commit 37916f7cbec4440abb2bd6a913ddecdee3ae7ec6
+2025-01-30 23:37:06,598 - INFO - OpenAI model finished.
+2025-01-30 23:37:12,989 - INFO - Gemini model finished.
+2025-01-30 23:37:17,989 - INFO - Complete processing index 84	project server commit 37916f7cbec4440abb2bd6a913ddecdee3ae7ec6
+2025-01-30 23:37:18,002 - INFO - Start processing index 85	project openapi-generator commit bade71c6bacc2bfdd0ea400da313959c32cf8a6b
+2025-01-30 23:37:19,665 - INFO - OpenAI model finished.
+2025-01-30 23:37:26,082 - INFO - Gemini model finished.
+2025-01-30 23:37:31,083 - INFO - Complete processing index 85	project openapi-generator commit bade71c6bacc2bfdd0ea400da313959c32cf8a6b
+2025-01-30 23:37:31,103 - INFO - Start processing index 86	project cim commit 726c2395505b0c38dea3be384890c77e0b8ad4f3
+2025-01-30 23:37:33,944 - INFO - OpenAI model finished.
+2025-01-30 23:37:40,370 - INFO - Gemini model finished.
+2025-01-30 23:37:45,370 - INFO - Complete processing index 86	project cim commit 726c2395505b0c38dea3be384890c77e0b8ad4f3
+2025-01-30 23:37:45,391 - INFO - Start processing index 87	project JsonPath commit 9f4f2f249220038c94ec48a9b3a15418760ba6ad
+2025-01-30 23:37:46,839 - INFO - OpenAI model finished.
+2025-01-30 23:37:53,332 - INFO - Gemini model finished.
+2025-01-30 23:37:58,333 - INFO - Complete processing index 87	project JsonPath commit 9f4f2f249220038c94ec48a9b3a15418760ba6ad
+2025-01-30 23:37:58,351 - INFO - Start processing index 88	project JFoenix commit 79477ad7438a737627d7f1482c184b6d1fa37545
+2025-01-30 23:38:00,299 - INFO - OpenAI model finished.
+2025-01-30 23:38:07,806 - INFO - Gemini model finished.
+2025-01-30 23:38:12,806 - INFO - Complete processing index 88	project JFoenix commit 79477ad7438a737627d7f1482c184b6d1fa37545
+2025-01-30 23:38:12,828 - INFO - Start processing index 89	project rest-assured commit 152d91a4db0db34b6f521879e9aca8f1c9f88c4a
+2025-01-30 23:38:15,960 - INFO - OpenAI model finished.
+2025-01-30 23:38:21,939 - INFO - Gemini model finished.
+2025-01-30 23:38:26,939 - INFO - Complete processing index 89	project rest-assured commit 152d91a4db0db34b6f521879e9aca8f1c9f88c4a
+2025-01-30 23:38:26,953 - INFO - Start processing index 90	project netty-socketio commit c1e3d5aec46159f24cac943ac89e5c3a861fe56e
+2025-01-30 23:38:29,377 - INFO - OpenAI model finished.
+2025-01-30 23:38:35,275 - INFO - Gemini model finished.
+2025-01-30 23:38:40,276 - INFO - Complete processing index 90	project netty-socketio commit c1e3d5aec46159f24cac943ac89e5c3a861fe56e
+2025-01-30 23:38:40,291 - INFO - Start processing index 91	project FEBS-Shiro commit 87163593af53767f0cab7316528f03d67f04ab8c
+2025-01-30 23:38:41,975 - INFO - OpenAI model finished.
+2025-01-30 23:38:48,014 - INFO - Gemini model finished.
+2025-01-30 23:38:53,014 - INFO - Complete processing index 91	project FEBS-Shiro commit 87163593af53767f0cab7316528f03d67f04ab8c
+2025-01-30 23:38:53,039 - INFO - Start processing index 92	project dubbo-spring-boot-project commit 9ef994d1bd455a9747b580319e063f61dc841811
+2025-01-30 23:38:55,256 - INFO - OpenAI model finished.
+2025-01-30 23:39:01,228 - INFO - Gemini model finished.
+2025-01-30 23:39:06,228 - INFO - Complete processing index 92	project dubbo-spring-boot-project commit 9ef994d1bd455a9747b580319e063f61dc841811
+2025-01-30 23:39:06,248 - INFO - Start processing index 93	project springfox commit 06591ff0678b0d7f99cb2f5e086646cc12c1a5c9
+2025-01-30 23:39:09,062 - INFO - OpenAI model finished.
+2025-01-30 23:39:15,362 - INFO - Gemini model finished.
+2025-01-30 23:39:20,362 - INFO - Complete processing index 93	project springfox commit 06591ff0678b0d7f99cb2f5e086646cc12c1a5c9
+2025-01-30 23:39:20,375 - INFO - Start processing index 94	project smali commit 3735d4778fdfc6e544650f1e3ced82606fb34e81
+2025-01-30 23:39:22,052 - INFO - OpenAI model finished.
+2025-01-30 23:39:28,130 - INFO - Gemini model finished.
+2025-01-30 23:39:33,130 - INFO - Complete processing index 94	project smali commit 3735d4778fdfc6e544650f1e3ced82606fb34e81
+2025-01-30 23:39:33,150 - INFO - Start processing index 95	project hibernate-orm commit 9ba18b8c5d1a55b6637dda5e6b3e7e5d605f14d2
+2025-01-30 23:39:35,720 - INFO - OpenAI model finished.
+2025-01-30 23:39:41,521 - INFO - Gemini model finished.
+2025-01-30 23:39:46,521 - INFO - Complete processing index 95	project hibernate-orm commit 9ba18b8c5d1a55b6637dda5e6b3e7e5d605f14d2
+2025-01-30 23:39:46,542 - INFO - Start processing index 96	project orientdb commit 501dac7919b0c0532b7849a010da46f7628fb2da
+2025-01-30 23:39:52,258 - INFO - OpenAI model finished.
+2025-01-30 23:39:59,996 - INFO - Gemini model finished.
+2025-01-30 23:40:04,996 - INFO - Complete processing index 96	project orientdb commit 501dac7919b0c0532b7849a010da46f7628fb2da
+2025-01-30 23:40:05,017 - INFO - Start processing index 97	project BGARefreshLayout-Android commit 3d121bab4a6de53a525e264fc89b56e955414e43
+2025-01-30 23:40:07,314 - INFO - OpenAI model finished.
+2025-01-30 23:40:13,267 - INFO - Gemini model finished.
+2025-01-30 23:40:18,267 - INFO - Complete processing index 97	project BGARefreshLayout-Android commit 3d121bab4a6de53a525e264fc89b56e955414e43
+2025-01-30 23:40:18,288 - INFO - Start processing index 98	project graphql-java commit 4cfd6281dafe275dd8d84b2d00496625a4adf536
+2025-01-30 23:40:20,312 - INFO - OpenAI model finished.
+2025-01-30 23:40:26,852 - INFO - Gemini model finished.
+2025-01-30 23:40:31,852 - INFO - Complete processing index 98	project graphql-java commit 4cfd6281dafe275dd8d84b2d00496625a4adf536
+2025-01-30 23:40:31,865 - INFO - Start processing index 99	project spring-security-oauth commit 894b9ced1df89145edf30d5d4a2b0354c3ffb3b6
+2025-01-30 23:40:34,201 - INFO - OpenAI model finished.
+2025-01-30 23:40:43,119 - INFO - Gemini model finished.
+2025-01-30 23:40:48,120 - INFO - Complete processing index 99	project spring-security-oauth commit 894b9ced1df89145edf30d5d4a2b0354c3ffb3b6
+2025-01-30 23:40:48,133 - INFO - Start processing index 100	project spring-petclinic commit 89d0e24488af04f0c0a0d2172186d0ce2a3c3cdd
+2025-01-30 23:40:50,372 - INFO - OpenAI model finished.
+2025-01-30 23:40:57,016 - INFO - Gemini model finished.
+2025-01-30 23:41:02,016 - INFO - Complete processing index 100	project spring-petclinic commit 89d0e24488af04f0c0a0d2172186d0ce2a3c3cdd
+2025-01-30 23:41:02,036 - INFO - Start processing index 101	project spring-cloud-netflix commit 8f37502c80ad198dc662d5bedb23755c3488c54f
+2025-01-30 23:41:03,589 - INFO - OpenAI model finished.
+2025-01-30 23:41:09,465 - INFO - Gemini model finished.
+2025-01-30 23:41:14,465 - INFO - Complete processing index 101	project spring-cloud-netflix commit 8f37502c80ad198dc662d5bedb23755c3488c54f
+2025-01-30 23:41:14,486 - INFO - Start processing index 102	project crawler4j commit 14f4d372f3b91a5fe7e16e23890a2414091bc7ce
+2025-01-30 23:41:16,798 - INFO - OpenAI model finished.
+2025-01-30 23:41:23,155 - INFO - Gemini model finished.
+2025-01-30 23:41:28,156 - INFO - Complete processing index 102	project crawler4j commit 14f4d372f3b91a5fe7e16e23890a2414091bc7ce
+2025-01-30 23:41:28,169 - INFO - Start processing index 103	project lanproxy commit 1e0cfe7542abf06498662d5723d547188e65c673
+2025-01-30 23:41:31,010 - INFO - OpenAI model finished.
+2025-01-30 23:41:37,904 - INFO - Gemini model finished.
+2025-01-30 23:41:42,905 - INFO - Complete processing index 103	project lanproxy commit 1e0cfe7542abf06498662d5723d547188e65c673
+2025-01-30 23:41:42,929 - INFO - Start processing index 104	project gephi commit c4a1a81eeaf32c9c120e56cbce7469d4b7b3da9a
+2025-01-30 23:41:45,061 - INFO - OpenAI model finished.
+2025-01-30 23:41:51,282 - INFO - Gemini model finished.
+2025-01-30 23:41:56,283 - INFO - Complete processing index 104	project gephi commit c4a1a81eeaf32c9c120e56cbce7469d4b7b3da9a
+2025-01-30 23:41:56,309 - INFO - Start processing index 105	project vavr commit abff73e3eb94c39678df7cb95d1f1d89e07d4181
+2025-01-30 23:41:58,191 - INFO - OpenAI model finished.
+2025-01-30 23:42:03,988 - INFO - Gemini model finished.
+2025-01-30 23:42:08,989 - INFO - Complete processing index 105	project vavr commit abff73e3eb94c39678df7cb95d1f1d89e07d4181
+2025-01-30 23:42:09,004 - INFO - Start processing index 106	project hazelcast commit c56868c1a273caf0919afb913c22812c59e4ad44
+2025-01-30 23:42:10,898 - INFO - OpenAI model finished.
+2025-01-30 23:42:17,713 - INFO - Gemini model finished.
+2025-01-30 23:42:22,714 - INFO - Complete processing index 106	project hazelcast commit c56868c1a273caf0919afb913c22812c59e4ad44
+2025-01-30 23:42:22,722 - INFO - Start processing index 107	project sofa-boot commit 9c7f34377da337ffad74819e6bff335d4c90d9ce
+2025-01-30 23:42:27,527 - INFO - OpenAI model finished.
+2025-01-30 23:42:34,245 - INFO - Gemini model finished.
+2025-01-30 23:42:39,245 - INFO - Complete processing index 107	project sofa-boot commit 9c7f34377da337ffad74819e6bff335d4c90d9ce
+2025-01-30 23:42:39,258 - INFO - Start processing index 108	project groovy commit 3c1d59f70c21319bbbac7a5fda73d401b5e099b9
+2025-01-30 23:42:41,087 - INFO - OpenAI model finished.
+2025-01-30 23:42:47,526 - INFO - Gemini model finished.
+2025-01-30 23:42:52,527 - INFO - Complete processing index 108	project groovy commit 3c1d59f70c21319bbbac7a5fda73d401b5e099b9
+2025-01-30 23:42:52,547 - INFO - Start processing index 109	project incubator-dolphinscheduler commit b2e0b8598f753be5b89772d5aaf7dbef7d9311f3
+2025-01-30 23:42:58,091 - INFO - OpenAI model finished.
+2025-01-30 23:43:04,621 - INFO - Gemini model finished.
+2025-01-30 23:43:09,622 - INFO - Complete processing index 109	project incubator-dolphinscheduler commit b2e0b8598f753be5b89772d5aaf7dbef7d9311f3
+2025-01-30 23:43:09,636 - INFO - Start processing index 110	project reactive-streams-jvm commit 7a2a2ce2e762f280444baa7529a90381dad6e092
+2025-01-30 23:43:12,083 - INFO - OpenAI model finished.
+2025-01-30 23:43:18,146 - INFO - Gemini model finished.
+2025-01-30 23:43:23,147 - INFO - Complete processing index 110	project reactive-streams-jvm commit 7a2a2ce2e762f280444baa7529a90381dad6e092
+2025-01-30 23:43:23,168 - INFO - Start processing index 111	project micronaut-core commit 00c23c2ccfd55d4f09ecfd06812fac588243df8f
+2025-01-30 23:43:25,974 - INFO - OpenAI model finished.
+2025-01-30 23:43:32,083 - INFO - Gemini model finished.
+2025-01-30 23:43:37,083 - INFO - Complete processing index 111	project micronaut-core commit 00c23c2ccfd55d4f09ecfd06812fac588243df8f
+2025-01-30 23:43:37,095 - INFO - Start processing index 112	project quartz commit 4388a602d144453858dfcfa70bf2dfefaf52f83d
+2025-01-30 23:43:39,522 - INFO - OpenAI model finished.
+2025-01-30 23:43:45,985 - INFO - Gemini model finished.
+2025-01-30 23:43:50,986 - INFO - Complete processing index 112	project quartz commit 4388a602d144453858dfcfa70bf2dfefaf52f83d
+2025-01-30 23:43:50,995 - INFO - Start processing index 113	project openhab1-addons commit c7384623facaa35ec6741b4b479b6b4379428793
+2025-01-30 23:43:53,001 - INFO - OpenAI model finished.
+2025-01-30 23:43:59,050 - INFO - Gemini model finished.
+2025-01-30 23:44:04,050 - INFO - Complete processing index 113	project openhab1-addons commit c7384623facaa35ec6741b4b479b6b4379428793
+2025-01-30 23:44:04,063 - INFO - Start processing index 114	project objectbox-java commit e01ecb66562ffc0fb48f6884b181f37a13c676e7
+2025-01-30 23:44:06,569 - INFO - OpenAI model finished.
+2025-01-30 23:44:12,421 - INFO - Gemini model finished.
+2025-01-30 23:44:17,421 - INFO - Complete processing index 114	project objectbox-java commit e01ecb66562ffc0fb48f6884b181f37a13c676e7
+2025-01-30 23:44:17,433 - INFO - Start processing index 115	project ribbon commit aa788bcb745461c808724b96af8d3ce117ffede5
+2025-01-30 23:44:19,497 - INFO - OpenAI model finished.
+2025-01-30 23:44:26,542 - INFO - Gemini model finished.
+2025-01-30 23:44:31,542 - INFO - Complete processing index 115	project ribbon commit aa788bcb745461c808724b96af8d3ce117ffede5
+2025-01-30 23:44:31,556 - INFO - Start processing index 116	project jvm-sandbox commit aae58823a31c4597b407630adcf877d5f56c0547
+2025-01-30 23:44:33,712 - INFO - OpenAI model finished.
+2025-01-30 23:44:39,766 - INFO - Gemini model finished.
+2025-01-30 23:44:44,766 - INFO - Complete processing index 116	project jvm-sandbox commit aae58823a31c4597b407630adcf877d5f56c0547
+2025-01-30 23:44:44,783 - INFO - Start processing index 117	project java-jwt commit 41e4ff4374c6d6ff40f4f5546932a92c059d2c72
+2025-01-30 23:44:47,405 - INFO - OpenAI model finished.
+2025-01-30 23:44:54,402 - INFO - Gemini model finished.
+2025-01-30 23:44:59,402 - INFO - Complete processing index 117	project java-jwt commit 41e4ff4374c6d6ff40f4f5546932a92c059d2c72
+2025-01-30 23:44:59,416 - INFO - Start processing index 118	project atmosphere commit 491be235eb726299a16cb480cf8967e3696add82
+2025-01-30 23:45:01,255 - INFO - OpenAI model finished.
+2025-01-30 23:45:08,443 - INFO - Gemini model finished.
+2025-01-30 23:45:13,443 - INFO - Complete processing index 118	project atmosphere commit 491be235eb726299a16cb480cf8967e3696add82
+2025-01-30 23:45:13,457 - INFO - Start processing index 119	project SpringCloud commit 4cfa5fb7f8bda08b3e148621bc8e6ee52fbbcf20
+2025-01-30 23:45:19,144 - INFO - OpenAI model finished.
+2025-01-30 23:45:25,104 - INFO - Gemini model finished.
+2025-01-30 23:45:30,104 - INFO - Complete processing index 119	project SpringCloud commit 4cfa5fb7f8bda08b3e148621bc8e6ee52fbbcf20
+2025-01-30 23:45:30,129 - INFO - Start processing index 120	project greys-anatomy commit 025cc5ca25926aad8c95ff80d310e30e1a9a5a67
+2025-01-30 23:45:33,442 - INFO - OpenAI model finished.
+2025-01-30 23:45:39,292 - INFO - Gemini model finished.
+2025-01-30 23:45:44,293 - INFO - Complete processing index 120	project greys-anatomy commit 025cc5ca25926aad8c95ff80d310e30e1a9a5a67
+2025-01-30 23:45:44,307 - INFO - Start processing index 121	project tx-lcn commit dafb5ec0c2922a0c11bd8bb2e42c57bd952ed3e9
+2025-01-30 23:45:47,762 - INFO - OpenAI model finished.
+2025-01-30 23:45:53,786 - INFO - Gemini model finished.
+2025-01-30 23:45:58,786 - INFO - Complete processing index 121	project tx-lcn commit dafb5ec0c2922a0c11bd8bb2e42c57bd952ed3e9
+2025-01-30 23:45:58,812 - INFO - Start processing index 122	project roncoo-pay commit 2c4e1b951da74d3896f5843c9d14000f6a1135c9
+2025-01-30 23:46:04,799 - INFO - OpenAI model finished.
+2025-01-30 23:46:10,742 - INFO - Gemini model finished.
+2025-01-30 23:46:15,742 - INFO - Complete processing index 122	project roncoo-pay commit 2c4e1b951da74d3896f5843c9d14000f6a1135c9
+2025-01-30 23:46:15,764 - INFO - Start processing index 123	project Luyten commit f2153b295cf851a1b317c2a47f0852b13e55dff2
+2025-01-30 23:46:18,580 - INFO - OpenAI model finished.
+2025-01-30 23:46:25,878 - INFO - Gemini model finished.
+2025-01-30 23:46:30,878 - INFO - Complete processing index 123	project Luyten commit f2153b295cf851a1b317c2a47f0852b13e55dff2
+2025-01-30 23:46:30,903 - INFO - Start processing index 124	project ksql commit a11d25d2fb2213127b8df35e9e6de3118aff2adb
+2025-01-30 23:46:33,085 - INFO - OpenAI model finished.
+2025-01-30 23:46:40,366 - INFO - Gemini model finished.
+2025-01-30 23:46:45,366 - INFO - Complete processing index 124	project ksql commit a11d25d2fb2213127b8df35e9e6de3118aff2adb
+2025-01-30 23:46:45,380 - INFO - Start processing index 125	project LoganSquare commit a928069d8bd987348aad5f5c0756c65ac1e1d27c
+2025-01-30 23:46:47,572 - INFO - OpenAI model finished.
+2025-01-30 23:46:53,653 - INFO - Gemini model finished.
+2025-01-30 23:46:58,653 - INFO - Complete processing index 125	project LoganSquare commit a928069d8bd987348aad5f5c0756c65ac1e1d27c
+2025-01-30 23:46:58,666 - INFO - Start processing index 126	project jodd commit 9e22afffbe45c9364671a1364d4bcfe2de10e4d3
+2025-01-30 23:47:01,736 - INFO - OpenAI model finished.
+2025-01-30 23:47:08,053 - INFO - Gemini model finished.
+2025-01-30 23:47:13,054 - INFO - Complete processing index 126	project jodd commit 9e22afffbe45c9364671a1364d4bcfe2de10e4d3
+2025-01-30 23:47:13,083 - INFO - Start processing index 127	project aws-sdk-java commit 2dd166f640dc18e124b848431d96e669881ba859
+2025-01-30 23:47:16,155 - INFO - OpenAI model finished.
+2025-01-30 23:47:22,123 - INFO - Gemini model finished.
+2025-01-30 23:47:27,123 - INFO - Complete processing index 127	project aws-sdk-java commit 2dd166f640dc18e124b848431d96e669881ba859
+2025-01-30 23:47:27,137 - INFO - Start processing index 128	project simplify commit f1f39138ee268639c9563ef9107f75288be7b1b6
+2025-01-30 23:47:29,064 - INFO - OpenAI model finished.
+2025-01-30 23:47:35,389 - INFO - Gemini model finished.
+2025-01-30 23:47:40,389 - INFO - Complete processing index 128	project simplify commit f1f39138ee268639c9563ef9107f75288be7b1b6
+2025-01-30 23:47:40,411 - INFO - Start processing index 129	project frontend-maven-plugin commit d543d86d84b8296cc62f5c5b070d78fb863df5af
+2025-01-30 23:47:45,668 - INFO - OpenAI model finished.
+2025-01-30 23:47:51,896 - INFO - Gemini model finished.
+2025-01-30 23:47:56,896 - INFO - Complete processing index 129	project frontend-maven-plugin commit d543d86d84b8296cc62f5c5b070d78fb863df5af
+2025-01-30 23:47:56,918 - INFO - Start processing index 130	project lettuce-core commit dea8f66f846bf37494c18d1ca6036edd4a2f7898
+2025-01-30 23:47:58,588 - INFO - OpenAI model finished.
+2025-01-30 23:48:04,860 - INFO - Gemini model finished.
+2025-01-30 23:48:09,860 - INFO - Complete processing index 130	project lettuce-core commit dea8f66f846bf37494c18d1ca6036edd4a2f7898
+2025-01-30 23:48:09,879 - INFO - Start processing index 131	project GCViewer commit ff12c68854fc4b37c8a0149063b93b0ea2f68c46
+2025-01-30 23:48:11,914 - INFO - OpenAI model finished.
+2025-01-30 23:48:19,030 - INFO - Gemini model finished.
+2025-01-30 23:48:24,031 - INFO - Complete processing index 131	project GCViewer commit ff12c68854fc4b37c8a0149063b93b0ea2f68c46
+2025-01-30 23:48:24,862 - INFO - Start processing index 132	project azkaban commit 4816d7435f6d0ba469bf20e68852ccc056c9435d
+2025-01-30 23:48:27,571 - INFO - OpenAI model finished.
+2025-01-30 23:48:33,844 - INFO - Gemini model finished.
+2025-01-30 23:48:38,845 - INFO - Complete processing index 132	project azkaban commit 4816d7435f6d0ba469bf20e68852ccc056c9435d
+2025-01-30 23:48:38,866 - INFO - Start processing index 133	project reflections commit 2758efc78b67144432347064f5097b2aec656e98
+2025-01-30 23:48:40,735 - INFO - OpenAI model finished.
+2025-01-30 23:48:46,761 - INFO - Gemini model finished.
+2025-01-30 23:48:51,761 - INFO - Complete processing index 133	project reflections commit 2758efc78b67144432347064f5097b2aec656e98
+2025-01-30 23:48:51,776 - INFO - Start processing index 134	project ignite commit 97db8d4a2f5f6a878136bd20fffda8dc4abb46fb
+2025-01-30 23:48:53,751 - INFO - OpenAI model finished.
+2025-01-30 23:48:59,877 - INFO - Gemini model finished.
+2025-01-30 23:49:04,878 - INFO - Complete processing index 134	project ignite commit 97db8d4a2f5f6a878136bd20fffda8dc4abb46fb
+2025-01-30 23:49:04,892 - INFO - Start processing index 135	project jfinal commit 478b7d2dc0ad8cbef8164cd8fd5eeb96c74934d9
+2025-01-30 23:49:07,615 - INFO - OpenAI model finished.
+2025-01-30 23:49:13,901 - INFO - Gemini model finished.
+2025-01-30 23:49:18,901 - INFO - Complete processing index 135	project jfinal commit 478b7d2dc0ad8cbef8164cd8fd5eeb96c74934d9
+2025-01-30 23:49:18,915 - INFO - Start processing index 136	project reactor-core commit b0d45ffd9aa9b4bd11fff633191fd8cd4fff33a1
+2025-01-30 23:49:20,721 - INFO - OpenAI model finished.
+2025-01-30 23:49:26,607 - INFO - Gemini model finished.
+2025-01-30 23:49:31,608 - INFO - Complete processing index 136	project reactor-core commit b0d45ffd9aa9b4bd11fff633191fd8cd4fff33a1
+2025-01-30 23:49:31,621 - INFO - Start processing index 137	project opengrok commit 52b73a5a457a2b5b3ee60a83317b6ff3d6d86f4b
+2025-01-30 23:49:35,385 - INFO - OpenAI model finished.
+2025-01-30 23:49:41,489 - INFO - Gemini model finished.
+2025-01-30 23:49:46,490 - INFO - Complete processing index 137	project opengrok commit 52b73a5a457a2b5b3ee60a83317b6ff3d6d86f4b
+2025-01-30 23:49:46,503 - INFO - Start processing index 138	project spring-boot-starter commit e416809bac692d7bde3c19b7202be12bfda96f9b
+2025-01-30 23:49:49,017 - INFO - OpenAI model finished.
+2025-01-30 23:49:55,224 - INFO - Gemini model finished.
+2025-01-30 23:50:00,224 - INFO - Complete processing index 138	project spring-boot-starter commit e416809bac692d7bde3c19b7202be12bfda96f9b
+2025-01-30 23:50:00,238 - INFO - Start processing index 139	project XChange commit 16f86f72605dcfb5fffa9b72d459e51e9809b4f7
+2025-01-30 23:50:02,824 - INFO - OpenAI model finished.
+2025-01-30 23:50:08,943 - INFO - Gemini model finished.
+2025-01-30 23:50:13,944 - INFO - Complete processing index 139	project XChange commit 16f86f72605dcfb5fffa9b72d459e51e9809b4f7
+2025-01-30 23:50:13,958 - INFO - Start processing index 140	project data-transfer-project commit 39ed1086b67ff5be8c9acdb440cfe6e3641e07c8
+2025-01-30 23:50:15,827 - INFO - OpenAI model finished.
+2025-01-30 23:50:22,402 - INFO - Gemini model finished.
+2025-01-30 23:50:27,403 - INFO - Complete processing index 140	project data-transfer-project commit 39ed1086b67ff5be8c9acdb440cfe6e3641e07c8
+2025-01-30 23:50:27,427 - INFO - Start processing index 141	project PhotoPicker commit 2af54ff9cdb128f0717b056cb672b6b2ee7b846b
+2025-01-30 23:50:31,053 - INFO - OpenAI model finished.
+2025-01-30 23:50:37,087 - INFO - Gemini model finished.
+2025-01-30 23:50:42,088 - INFO - Complete processing index 141	project PhotoPicker commit 2af54ff9cdb128f0717b056cb672b6b2ee7b846b
+2025-01-30 23:50:42,101 - INFO - Start processing index 142	project AmazeFileManager commit 4ee2cdaf5fea7badeab009d4f1dc6ce276c60dbe
+2025-01-30 23:50:43,768 - INFO - OpenAI model finished.
+2025-01-30 23:50:49,768 - INFO - Gemini model finished.
+2025-01-30 23:50:54,769 - INFO - Complete processing index 142	project AmazeFileManager commit 4ee2cdaf5fea7badeab009d4f1dc6ce276c60dbe
+2025-01-30 23:50:54,783 - INFO - Start processing index 143	project onedev commit 5475b2ffaeb3925e6307bb302a0c307cce45a8d3
+2025-01-30 23:50:56,967 - INFO - OpenAI model finished.
+2025-01-30 23:51:03,319 - INFO - Gemini model finished.
+2025-01-30 23:51:08,320 - INFO - Complete processing index 143	project onedev commit 5475b2ffaeb3925e6307bb302a0c307cce45a8d3
+2025-01-30 23:51:08,339 - INFO - Start processing index 144	project thumbnailator commit 56dee622995e7a742ed6653942f39db624e3b069
+2025-01-30 23:51:10,821 - INFO - OpenAI model finished.
+2025-01-30 23:51:17,199 - INFO - Gemini model finished.
+2025-01-30 23:51:22,200 - INFO - Complete processing index 144	project thumbnailator commit 56dee622995e7a742ed6653942f39db624e3b069
+2025-01-30 23:51:22,221 - INFO - Start processing index 145	project elasticsearch-jdbc commit c49372f0c40a1ae96dd7cd1e3440bd4010c287cd
+2025-01-30 23:51:23,946 - INFO - OpenAI model finished.
+2025-01-30 23:51:31,033 - INFO - Gemini model finished.
+2025-01-30 23:51:36,034 - INFO - Complete processing index 145	project elasticsearch-jdbc commit c49372f0c40a1ae96dd7cd1e3440bd4010c287cd
+2025-01-30 23:51:36,048 - INFO - Start processing index 146	project Terasology commit f9957aa0ce00e9addad5b42e5d21175720afb78c
+2025-01-30 23:51:37,642 - INFO - OpenAI model finished.
+2025-01-30 23:51:43,598 - INFO - Gemini model finished.
+2025-01-30 23:51:48,598 - INFO - Complete processing index 146	project Terasology commit f9957aa0ce00e9addad5b42e5d21175720afb78c
+2025-01-30 23:51:48,611 - INFO - Start processing index 147	project flowable-engine commit ac0533b525fa907b5f9c6f6fbe10ee17c72000ad
+2025-01-30 23:51:50,384 - INFO - OpenAI model finished.
+2025-01-30 23:51:56,576 - INFO - Gemini model finished.
+2025-01-30 23:52:01,576 - INFO - Complete processing index 147	project flowable-engine commit ac0533b525fa907b5f9c6f6fbe10ee17c72000ad
+2025-01-30 23:52:01,589 - INFO - Start processing index 148	project AntennaPod commit 5d96effbd500a8378d9058f78c3149c048f3caf8
+2025-01-30 23:52:04,002 - INFO - OpenAI model finished.
+2025-01-30 23:52:10,760 - INFO - Gemini model finished.
+2025-01-30 23:52:15,761 - INFO - Complete processing index 148	project AntennaPod commit 5d96effbd500a8378d9058f78c3149c048f3caf8
+2025-01-30 23:52:15,775 - INFO - Start processing index 149	project Guns commit 153d123404524f50068d6df8a8e0c28f1c3bfae4
+2025-01-30 23:52:17,557 - INFO - OpenAI model finished.
+2025-01-30 23:52:24,010 - INFO - Gemini model finished.
+2025-01-30 23:52:29,011 - INFO - Complete processing index 149	project Guns commit 153d123404524f50068d6df8a8e0c28f1c3bfae4
+2025-01-30 23:52:29,025 - INFO - Start processing index 150	project querydsl commit 9ad304fdbe48da1addb9f6a04b8e1e5a229c8031
+2025-01-30 23:52:31,244 - INFO - OpenAI model finished.
+2025-01-30 23:52:37,126 - INFO - Gemini model finished.
+2025-01-30 23:52:42,127 - INFO - Complete processing index 150	project querydsl commit 9ad304fdbe48da1addb9f6a04b8e1e5a229c8031
+2025-01-30 23:52:42,140 - INFO - Start processing index 151	project web3j commit 943ecbd825e0abc92f5c37cd68bad7cdbe91cc12
+2025-01-30 23:52:44,699 - INFO - OpenAI model finished.
+2025-01-30 23:52:50,748 - INFO - Gemini model finished.
+2025-01-30 23:52:55,748 - INFO - Complete processing index 151	project web3j commit 943ecbd825e0abc92f5c37cd68bad7cdbe91cc12
+2025-01-30 23:52:55,762 - INFO - Start processing index 152	project undertow commit 6df0cc433bfe9a26dd730bca0d685a2dcae4e2be
+2025-01-30 23:52:57,372 - INFO - OpenAI model finished.
+2025-01-30 23:53:03,209 - INFO - Gemini model finished.
+2025-01-30 23:53:08,210 - INFO - Complete processing index 152	project undertow commit 6df0cc433bfe9a26dd730bca0d685a2dcae4e2be
+2025-01-30 23:53:08,224 - INFO - Start processing index 153	project immutables commit 817c6ddab07032774447d3236602a79304dc5637
+2025-01-30 23:53:10,861 - INFO - OpenAI model finished.
+2025-01-30 23:53:17,196 - INFO - Gemini model finished.
+2025-01-30 23:53:22,197 - INFO - Complete processing index 153	project immutables commit 817c6ddab07032774447d3236602a79304dc5637
+2025-01-30 23:53:22,211 - INFO - Start processing index 154	project light-task-scheduler commit c96cd543e694396ec3ba9292159eeddbd9603bd2
+2025-01-30 23:53:24,076 - INFO - OpenAI model finished.
+2025-01-30 23:53:30,518 - INFO - Gemini model finished.
+2025-01-30 23:53:35,518 - INFO - Complete processing index 154	project light-task-scheduler commit c96cd543e694396ec3ba9292159eeddbd9603bd2
+2025-01-30 23:53:35,532 - INFO - Start processing index 155	project spock commit bef054e079a96d1632f4371f9cf2767e5e539563
+2025-01-30 23:53:37,496 - INFO - OpenAI model finished.
+2025-01-30 23:53:43,747 - INFO - Gemini model finished.
+2025-01-30 23:53:48,747 - INFO - Complete processing index 155	project spock commit bef054e079a96d1632f4371f9cf2767e5e539563
+2025-01-30 23:53:48,760 - INFO - Start processing index 156	project WebCollector commit 8a987feaf91dadc94579c7fed1a66ce0c33b2ffb
+2025-01-30 23:53:51,687 - INFO - OpenAI model finished.
+2025-01-30 23:53:58,561 - INFO - Gemini model finished.
+2025-01-30 23:54:03,562 - INFO - Complete processing index 156	project WebCollector commit 8a987feaf91dadc94579c7fed1a66ce0c33b2ffb
+2025-01-30 23:54:03,581 - INFO - Start processing index 157	project mockserver commit 5e06a30f7eb3f18983bc762d30a1ba13276b834b
+2025-01-30 23:54:06,979 - INFO - OpenAI model finished.
+2025-01-30 23:54:13,981 - INFO - Gemini model finished.
+2025-01-30 23:54:18,981 - INFO - Complete processing index 157	project mockserver commit 5e06a30f7eb3f18983bc762d30a1ba13276b834b
+2025-01-30 23:54:18,995 - INFO - Start processing index 158	project graphhopper commit ef7551194a3e2b9239bee1b661a7fbf3835c523a
+2025-01-30 23:54:21,869 - INFO - OpenAI model finished.
+2025-01-30 23:54:28,621 - INFO - Gemini model finished.
+2025-01-30 23:54:33,621 - INFO - Complete processing index 158	project graphhopper commit ef7551194a3e2b9239bee1b661a7fbf3835c523a
+2025-01-30 23:54:33,635 - INFO - Start processing index 159	project weixin-java-tools commit 84a3683c35eedcda611b370430540a0120c24433
+2025-01-30 23:54:35,230 - INFO - OpenAI model finished.
+2025-01-30 23:54:41,063 - INFO - Gemini model finished.
+2025-01-30 23:54:46,064 - INFO - Complete processing index 159	project weixin-java-tools commit 84a3683c35eedcda611b370430540a0120c24433
+2025-01-30 23:54:46,077 - INFO - Start processing index 160	project dubbo-admin commit 5c17102d3ab91bcc92e94e41c7404da37d7f0bbb
+2025-01-30 23:54:47,463 - INFO - OpenAI model finished.
+2025-01-30 23:54:53,857 - INFO - Gemini model finished.
+2025-01-30 23:54:58,858 - INFO - Complete processing index 160	project dubbo-admin commit 5c17102d3ab91bcc92e94e41c7404da37d7f0bbb
+2025-01-30 23:54:58,872 - INFO - Start processing index 161	project MovieGuide commit 3ca75a84d9179b1364861ecead99069e749535dd
+2025-01-30 23:55:00,607 - INFO - OpenAI model finished.
+2025-01-30 23:55:06,662 - INFO - Gemini model finished.
+2025-01-30 23:55:11,662 - INFO - Complete processing index 161	project MovieGuide commit 3ca75a84d9179b1364861ecead99069e749535dd
+2025-01-30 23:55:11,675 - INFO - Start processing index 162	project conductor commit 62e9252e8c6bcab43ad450138ad93b56d5e96039
+2025-01-30 23:55:13,791 - INFO - OpenAI model finished.
+2025-01-30 23:55:20,420 - INFO - Gemini model finished.
+2025-01-30 23:55:25,420 - INFO - Complete processing index 162	project conductor commit 62e9252e8c6bcab43ad450138ad93b56d5e96039
+2025-01-30 23:55:25,435 - INFO - Start processing index 163	project spring-loaded commit 76c7ae8c98c47cc94f41f81b813c7a4ea9bfc3ae
+2025-01-30 23:55:27,520 - INFO - OpenAI model finished.
+2025-01-30 23:55:33,987 - INFO - Gemini model finished.
+2025-01-30 23:55:38,988 - INFO - Complete processing index 163	project spring-loaded commit 76c7ae8c98c47cc94f41f81b813c7a4ea9bfc3ae
+2025-01-30 23:55:39,002 - INFO - Start processing index 164	project spring-cloud-rest-tcc commit dfe5d6c5cb296909d52e411c34f5271342ede3dc
+2025-01-30 23:55:41,220 - INFO - OpenAI model finished.
+2025-01-30 23:55:51,135 - INFO - Gemini model finished.
+2025-01-30 23:55:56,136 - INFO - Complete processing index 164	project spring-cloud-rest-tcc commit dfe5d6c5cb296909d52e411c34f5271342ede3dc
+2025-01-30 23:55:56,149 - INFO - Start processing index 165	project jackson-databind commit db73b724df2b4267805619dddafb6b79370340fe
+2025-01-30 23:55:58,078 - INFO - OpenAI model finished.
+2025-01-30 23:56:04,224 - INFO - Gemini model finished.
+2025-01-30 23:56:09,224 - INFO - Complete processing index 165	project jackson-databind commit db73b724df2b4267805619dddafb6b79370340fe
+2025-01-30 23:56:09,239 - INFO - Start processing index 166	project disunity commit dd5480db1fd9c27850fb0da3508c660a0e81cc35
+2025-01-30 23:56:11,127 - INFO - OpenAI model finished.
+2025-01-30 23:56:16,993 - INFO - Gemini model finished.
+2025-01-30 23:56:21,993 - INFO - Complete processing index 166	project disunity commit dd5480db1fd9c27850fb0da3508c660a0e81cc35
+2025-01-30 23:56:22,008 - INFO - Start processing index 167	project mapstruct commit 48d7963cca4f1a890969ba66af36aece22272e33
+2025-01-30 23:56:23,943 - INFO - OpenAI model finished.
+2025-01-30 23:56:30,654 - INFO - Gemini model finished.
+2025-01-30 23:56:35,654 - INFO - Complete processing index 167	project mapstruct commit 48d7963cca4f1a890969ba66af36aece22272e33
+2025-01-30 23:56:35,670 - INFO - Start processing index 168	project voldemort commit 056d93c1b5487020e0a467c3a02371b29f73c339
+2025-01-30 23:56:37,518 - INFO - OpenAI model finished.
+2025-01-30 23:56:43,422 - INFO - Gemini model finished.
+2025-01-30 23:56:48,423 - INFO - Complete processing index 168	project voldemort commit 056d93c1b5487020e0a467c3a02371b29f73c339
+2025-01-30 23:56:48,437 - INFO - Start processing index 169	project tape commit db536233ef2f4c274c1093ea1fdd88da8a5db5a2
+2025-01-30 23:56:50,139 - INFO - OpenAI model finished.
+2025-01-30 23:56:56,305 - INFO - Gemini model finished.
+2025-01-30 23:57:01,305 - INFO - Complete processing index 169	project tape commit db536233ef2f4c274c1093ea1fdd88da8a5db5a2
+2025-01-30 23:57:01,318 - INFO - Start processing index 170	project java-tron commit 5884e57ba084b9d13912ce3f077a6edbf48d5b1d
+2025-01-30 23:57:05,129 - INFO - OpenAI model finished.
+2025-01-30 23:57:11,441 - INFO - Gemini model finished.
+2025-01-30 23:57:16,442 - INFO - Complete processing index 170	project java-tron commit 5884e57ba084b9d13912ce3f077a6edbf48d5b1d
+2025-01-30 23:57:16,456 - INFO - Start processing index 171	project docker-maven-plugin commit ebc3ef768b80d6f5ce20e39726190bee3cd6f051
+2025-01-30 23:57:18,406 - INFO - OpenAI model finished.
+2025-01-30 23:57:24,491 - INFO - Gemini model finished.
+2025-01-30 23:57:29,491 - INFO - Complete processing index 171	project docker-maven-plugin commit ebc3ef768b80d6f5ce20e39726190bee3cd6f051
+2025-01-30 23:57:29,505 - INFO - Start processing index 172	project traccar commit 8a696af4d92821ccf741c21dcbe118861008743a
+2025-01-30 23:57:30,848 - INFO - OpenAI model finished.
+2025-01-30 23:57:36,793 - INFO - Gemini model finished.
+2025-01-30 23:57:41,794 - INFO - Complete processing index 172	project traccar commit 8a696af4d92821ccf741c21dcbe118861008743a
+2025-01-30 23:57:41,817 - INFO - Start processing index 173	project fnlp commit 6549226737d66f55d90765f31906b1b7d6a35754
+2025-01-30 23:57:43,726 - INFO - OpenAI model finished.
+2025-01-30 23:57:49,778 - INFO - Gemini model finished.
+2025-01-30 23:57:54,778 - INFO - Complete processing index 173	project fnlp commit 6549226737d66f55d90765f31906b1b7d6a35754
+2025-01-30 23:57:54,793 - INFO - Start processing index 174	project ByteTCC commit 5fcab99b87c7be47cfaac9d264ee7b90e679656b
+2025-01-30 23:57:59,506 - INFO - OpenAI model finished.
+2025-01-30 23:58:06,266 - INFO - Gemini model finished.
+2025-01-30 23:58:11,266 - INFO - Complete processing index 174	project ByteTCC commit 5fcab99b87c7be47cfaac9d264ee7b90e679656b
+2025-01-30 23:58:11,282 - INFO - Start processing index 175	project distributedlog commit 3619cf47988bf8ee2e7356ed3e2d639c2999fa90
+2025-01-30 23:58:14,454 - INFO - OpenAI model finished.
+2025-01-30 23:58:20,513 - INFO - Gemini model finished.
+2025-01-30 23:58:25,514 - INFO - Complete processing index 175	project distributedlog commit 3619cf47988bf8ee2e7356ed3e2d639c2999fa90
+2025-01-30 23:58:25,529 - INFO - Start processing index 176	project spring-cloud-gateway commit 5b810c35571fa7573c2b9434ba85fe6db5c4b9fb
+2025-01-30 23:58:30,456 - INFO - OpenAI model finished.
+2025-01-30 23:58:36,392 - INFO - Gemini model finished.
+2025-01-30 23:58:41,392 - INFO - Complete processing index 176	project spring-cloud-gateway commit 5b810c35571fa7573c2b9434ba85fe6db5c4b9fb
+2025-01-30 23:58:41,406 - INFO - Start processing index 177	project JSqlParser commit 1211dcf1209f3a4dcf4d76bd1bae900c937f9f49
+2025-01-30 23:58:44,067 - INFO - OpenAI model finished.
+2025-01-30 23:58:50,153 - INFO - Gemini model finished.
+2025-01-30 23:58:55,153 - INFO - Complete processing index 177	project JSqlParser commit 1211dcf1209f3a4dcf4d76bd1bae900c937f9f49
+2025-01-30 23:58:55,167 - INFO - Start processing index 178	project h2o-2 commit 324cfbda89fa9a52bf6d49a75ff76c43d2bd9d60
+2025-01-30 23:58:56,488 - INFO - OpenAI model finished.
+2025-01-30 23:59:02,624 - INFO - Gemini model finished.
+2025-01-30 23:59:07,624 - INFO - Complete processing index 178	project h2o-2 commit 324cfbda89fa9a52bf6d49a75ff76c43d2bd9d60
+2025-01-30 23:59:07,639 - INFO - Start processing index 179	project jmonkeyengine commit 41c40872037c042615e94c3e6662a9e564a6abd1
+2025-01-30 23:59:09,833 - INFO - OpenAI model finished.
+2025-01-30 23:59:15,500 - INFO - Gemini model finished.
+2025-01-30 23:59:20,501 - INFO - Complete processing index 179	project jmonkeyengine commit 41c40872037c042615e94c3e6662a9e564a6abd1
+2025-01-30 23:59:20,515 - INFO - Start processing index 180	project JCTools commit e5feff2aafc4c8ce46179eb4d1b5bd518f8c6559
+2025-01-30 23:59:22,886 - INFO - OpenAI model finished.
+2025-01-30 23:59:29,069 - INFO - Gemini model finished.
+2025-01-30 23:59:34,070 - INFO - Complete processing index 180	project JCTools commit e5feff2aafc4c8ce46179eb4d1b5bd518f8c6559

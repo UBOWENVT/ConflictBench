@@ -1,0 +1,20 @@
+        # Prepare the system and user content
+        system_content = ('You will be provided with a concrete example of merge conflict. Merge scenario contains 4'
+                          'versions. Base version, left version, right version and git-merged version. Git-merge version'
+                          'contain the merge conflict. You need to recommend one of the three resolution strategies: '
+                          '1/ Pick left version.'
+                          '2/ Pick right version.'
+                          '3/ Pick left version plus some new manual edit.'
+                          '4/ Pick right version plus some new manual edits.'
+                          '5/ Combine both left and right version, no new manual edits.'
+                          '6/ Combine both left and right version plus some new manual edits.'
+                          '7/ Purely new manual edits.'
+                          'Your output format need to be:'
+                          '<Resolution Strategy>: 1/ or 2/ or 3/ or 4/ or 5/ or 6/ or 7/'
+                          '<Resolution Content>: merge result'
+                          '<Reason>: explain how and why do you resolve the conflict')
+        user_content = f'''
+                   The program diff between base version and left version is {left_diff}. The program diff between base 
+                   version and right version is {right_diff}. The conflicting chunk reported by git merge 
+                   is {conflict_chuck}. Please tell me which one of the seven strategies you will pick to resolve this
+                    conflict? Also please tell me your resolution.'''
