@@ -52,6 +52,9 @@
 `workspace` is temp folder during experiments.
 `output` contain all experiment results.
 
+After fetching all data examples, the `Resource` folder will take roughly 15GB space.
+
+
 `Script` folder contain python script to run this experiment.
 
 NOTICE: 
