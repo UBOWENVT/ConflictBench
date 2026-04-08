@@ -1,60 +1,171 @@
 # ConflictBench
-`ConflictBench`
 
-├── `Logger`
+A benchmark dataset and evaluation framework for **textual merge conflicts** in Java projects. This repository contains the dataset, evaluation scripts, merge tools, and an LLM-based evaluation experiment built on the same benchmark.
 
-│	 ├── textual_conflict.log
+📄 **Paper:** Shen, B., and Na Meng. "ConflictBench: A benchmark to evaluate software merge tools." *Journal of Systems and Software*, 214, 2024. [[PDF]](https://par.nsf.gov/servlets/purl/10515800)
 
-├── `Data`
+---
 
-│	 ├── project_record.txt
+## Overview
 
-│	 ├── total_list.txt
+When developers merge software branches, **textual conflicts** occur when edits from different branches modify the same lines in divergent ways. While many automated merge tools exist, there is no standardized benchmark to fairly compare their capabilities.
 
-│	 └── DataSheet.xlsx
+**ConflictBench** addresses this gap by providing:
+- **180 manually curated merge conflict scenarios** sampled from 208 popular open-source Java repositories
+- **Ground-truth developer resolutions** for each scenario, obtained by locating the developer's actual merged version
+- A **reproducible evaluation pipeline** that runs 5 state-of-the-art merge tools against the dataset and scores them across 3 dimensions
 
+### Evaluation Dimensions
 
-├── `MergeTools`
+| Dimension | Description |
+|-----------|-------------|
+| **Tool Applicability** | Can the tool process this scenario? (e.g., some tools only handle Java files) |
+| **Detection Precision** | When a tool reports a conflict as unresolvable, is it truly unresolvable? |
+| **Resolution Desirability** | When a tool produces a resolution, does it match the developer's version semantically? |
 
-│	 ├── `AutoMerge`
+### Key Findings
 
-│	 ├── `FSTMerge`
+- No single tool dominates across all conflict scenarios
+- Tool performance varies significantly by project domain and conflict characteristics
+- LLMs outperform traditional merge tools in the majority of scenarios, but introduce new failure modes including hallucinated resolutions and syntactically invalid outputs (see [LLM Experiment](#llm-experiment))
 
-│	 ├── `IntelliMerge`
+---
 
-│	 ├── `JDime`
+## Repository Structure
 
-│	 └── `KDiff3`
+```
+ConflictBench/
+├── 20+_Conflicts/              # Pioneer experiment: conflicts with 20+ conflicting lines
+│   ├── ExoPlayer/<commit>/
+│   ├── SimianArmy/<commit>/
+│   └── ... (10 projects total)
+├── Data/
+│   ├── ConflictBench.xlsx      # Complete dataset: 180 scenarios with
+│   │                           # true/false conflict labels and developer resolutions
+│   │                           # with tool's resolution and manually crafted labels
+│   └── total_list.txt          # Full list of candidate merge scenarios
+├── LLM_Experiment/             # LLM-based evaluation (see section below)
+│   ├── Data/                   # LLM inputs, outputs, and manually verified results
+│   ├── Logger/                 # Execution logs
+│   └── Script/                 # LLM evaluation scripts
+├── MergeTools/                 # 5 state-of-the-art merge tools (shared across experiments)
+│   ├── AutoMerge/
+│   ├── FSTMerge/
+│   ├── IntelliMerge/
+│   ├── JDime/
+│   └── KDiff3/
+├── Resource/
+│   └── merge_scenarios/        # 180 scenario folders (one per conflict)
+├── Script/
+│   └── script.py               # Main evaluation script
+├── requirements.txt
+└── README.md
+```
 
-├── `Resource`
+### Scenario Folder Structure
 
-│	 ├── `output`
+Each folder in `Resource/merge_scenarios/` is named after the source project and contains one subfolder named with the **commit hash** of the developer's merged version:
 
-│	 └── `workspace`
+```
+<project_name>/
+└── <commit_hash>/          # Developer's version
+    ├── base/               # Common ancestor version
+    ├── left/               # Left branch version
+    ├── right/              # Right branch version
+    ├── child/              # Developer's version (ground truth)
+    ├── FSTMerge/           # FSTMerge tool output
+    ├── JDime/              # JDime tool output
+    ├── IntelliMerge/       # IntelliMerge tool output
+    └── AutoMerge/          # AutoMerge tool output
+```
 
-├── `Script`
+> Only the conflicting files are retained in each folder. All other project files are removed to keep the repository lightweight.
 
-│	 └── script.txt
+---
 
-├── README.md
+## Quick Start
 
-└── requirements.txt
+### Prerequisites
 
+```bash
+pip install -r requirements.txt
+apt install libgit2-1.1   # Required for JDime and AutoMerge
+```
 
-`Logger` folder store log informaion during script running.
+### Running the Experiment
 
-`Data` folder store the input total_list.txt, also store the project_record.txt to contain all information. DataSheet.xlsx is the manually checked sheet for all 180 merge scenarios.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/UBOWENVT/ConflictBench.git
+   cd ConflictBench
+   ```
 
-`MergeTools` folder contain 5 merge tools used in this experiment.
+2. Update the path prefix in `Script/script.py`:
+   ```python
+   path_prefix = "/your/local/path/to/ConflictBench"
+   ```
 
-`Resource` folder contain 3 folders including `output`, `workspace` and `merge_scenarios`.
-`merge_scenarios` folder stores all 180 merge scenarios. There are 180 folders named with the project name in `merge_scenarios` folder. In each project folder, there is only one folder named with commit hash. The commit hash is developers’ merged version m in paper. In each commit folder, there are 8 folders. 4 folders are tool execution reuslts corresponding to FSTMerge/JDime/IntelliMerge/AutoMerge. 4 folders are origin versions include base/left/right/child. Only the conflicting file remained in these folders. All other files are removed.
-`workspace` is temp folder during experiments.
-`output` contain all experiment results.
+3. Run the evaluation:
+   ```bash
+   python Script/script.py
+   ```
 
-`Script` folder contain python script to run this experiment.
+**Notes:**
+- `resume_experiment` is set to `False` by default. Set it to `True` to resume from a previous run using the stored `project_record.txt`.
+- `project_record.txt` is updated incrementally as the script runs. Results are written to `Resource/output/`.
 
-NOTICE: 
-1. Before running the script, update the variable `path_prefix` to your local repository path in `script.py`. `resume_experiment` is set to FALSE by default. If it's true, script will always read stored project_record.txt in Data folder.
-2. `project_record.txt` is the key file to store all information. As the script running, `project_record.txt` will be updated and `output` folder will store experiment result.
-3. `JDime` and `AutoMerge` need to install libgit2-1.1. Use command `apt install libgit2-1.1`
+---
+
+## LLM Experiment
+
+The `LLM_Experiment/` folder contains a follow-up study that evaluates **large language models** on the same 180-scenario benchmark, using the same evaluation dimensions and ground-truth resolutions from `Data/ConflictBench.xlsx`.
+
+### Models Evaluated
+- GPT-4o-mini (OpenAI)
+- Gemini 2.0 Flash (Google)
+
+### Contents
+
+| Folder | Description |
+|--------|-------------|
+| `LLM_Experiment/Script/` | Scripts for prompt construction, API calls, and batch evaluation |
+| `LLM_Experiment/Data/` | LLM inputs/outputs and manually verified evaluation results |
+| `LLM_Experiment/Logger/` | Execution logs |
+
+> The 5 merge tools in `MergeTools/` are shared between the main experiment and the LLM experiment.
+
+---
+
+## Dataset Summary
+
+| Item | Count |
+|------|-------|
+| Source repositories mined | 208 |
+| Merge scenarios extracted | 117,218 |
+| Scenarios in benchmark (manually curated) | 180 |
+| Merge tools evaluated | 5 |
+| LLM models evaluated | 2 |
+
+---
+
+## Citation
+
+If you use ConflictBench in your research, please cite:
+
+```bibtex
+@article{shen2024conflictbench,
+  title     = {ConflictBench: A benchmark to evaluate software merge tools},
+  author    = {Shen, Bowen and Meng, Na},
+  journal   = {Journal of Systems and Software},
+  volume    = {214},
+  year      = {2024}
+}
+```
+
+---
+
+## Related Work
+
+This benchmark was developed as part of a broader empirical study on merge conflicts:
+
+> Shen, B., Gulzar, M. A., He, F., and Meng, N. "A characterization study of merge conflicts in Java projects." *ACM Transactions on Software Engineering and Methodology*, 32(2), 2023.
